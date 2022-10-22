@@ -1,0 +1,52 @@
+
+body{
+    background-color: cornflowerblue;
+}
+
+div.container{
+    width: 70%;
+    background-color: cornflowerblue;
+    padding:5px;
+    box-sizing: border-box;
+}
+
+#circle{
+    width: 65%;
+    background-color:darkgray;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#triangle{
+    width: 65%;
+    background-color: darkgray;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#square{
+    width: 65%;
+    background-color: darkgray;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#rectangle{
+    width: 65%;
+    background-color: darkgray;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+div.go{
+    text-align: center;
+}
